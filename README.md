@@ -14,3 +14,12 @@ Future improvements:
 
 
 ## Screenshots
+
+Login and Register Screen
+![Image1](Screenshots/loginpage.png)
+
+Main Screen, and Plant details Screen
+![Image2](Screenshots/mains.png)
+
+Adding new plant Screen (camera opens to take picture, and then name and description are added)
+![Image3](Screenshots/newplant.png)
