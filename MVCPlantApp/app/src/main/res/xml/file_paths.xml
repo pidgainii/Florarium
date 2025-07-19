@@ -1,0 +1,6 @@
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Cache directory for temporary images -->
+    <cache-path name="images" path="." />
+    <!-- External storage (use with care as it's deprecated for scoped storage in recent Android versions) -->
+    <external-path name="external_images" path="Pictures/" />
+</paths>
