@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "679496329783",
+    "project_id": "florarium-bf18e",
+    "storage_bucket": "florarium-bf18e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679496329783:android:1d1e30d47ec1f5eba6adb2",
+        "android_client_info": {
+          "package_name": "com.example.mvcplantapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZeYhEFKSIfYYv0dfYQRbawj0ns6j3s6s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
