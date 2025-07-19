@@ -15,10 +15,10 @@ After saving them in the app, you can export them into your phone.
 ## Screenshots
 
 ### Login and Register Screen  
-<img src="Screenshots/loginpage.png" alt="Login and Register Screen" width="300"/>
+<img src="Screenshots/loginpage.png" alt="Login and Register Screen" width="450"/>
 
 ### Main Screen and Plant Details Screen  
-<img src="Screenshots/main.png" alt="Main and Plant Details Screen" width="300"/>
+<img src="Screenshots/main.png" alt="Main and Plant Details Screen" width="450"/>
 
 ### Adding New Plant Screen  
-<img src="Screenshots/newplant.png" alt="Add New Plant Screen" width="300"/>
+<img src="Screenshots/newplant.png" alt="Add New Plant Screen" width="450"/>
